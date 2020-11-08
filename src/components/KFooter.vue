@@ -4,12 +4,6 @@
         Keillion Wang, full stack engineer.
     </p>
     <p>
-        Main focus on js, .NET Core.
-    </p>
-    <p>
-        Hobby reading, hiking, games.
-    </p>
-    <p>
         email: <a href="mailto:keillionv@gmail.com">keillionv@gmail.com</a>
     </p>
     <p>
